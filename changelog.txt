@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2024.10.26  
+  Updates:
+    - Factorio 2.0 Support
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2022.4.14  
+  Settings:
+    - Code optimization thank to help from ZwerOxotnik
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2022.4.12  
+  Settings:
+    - Added Setting option to set damage value
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2022.4.9  
+  Settings:
+    - Added Setting option to disable knockback.
+    - Added Setting option to set Recipe - Magazine Size
+    - Added Setting option to set Recipe - How many Magazine are produced
+    - Added Setting option to set Recipe - Set how much stone is required to produce Recipe
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2022.1.6  
+  Features:
+    - Inital release....

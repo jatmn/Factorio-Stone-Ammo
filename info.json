@@ -1,0 +1,13 @@
+
+{
+	"name": "jatmn_stone_ammo",
+	"version": "0.0.5",
+	"date": "2024-10-26",
+	"author": "JATMN",
+	"factorio_version": "2.0",
+	"dependencies": [
+	  "! xchos_op_stone_ammo"	
+	],  	
+	"title": "Cheap Stone Ammo ",  
+	"description": "Cheap Stone Ammo...? - Now with Settings!\nThis Ammo was created for world/mods that have limited starting resources and making traditional Ammo is an issue.\n\nAmmo is purely made of stone ore. Does very very limited damage, but does a little knockback.. because why not its stone right?"
+}
