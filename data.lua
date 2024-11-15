@@ -9,6 +9,8 @@ local j_sa_size = settings.startup["j_sa_size"].value
 local j_sa_clips = settings.startup["j_sa_clips"].value
 local j_sa_damage = settings.startup["j_sa_damage"].value
 
+local item_sounds = require("__base__.prototypes.item_sounds")
+
 
 data:extend({
   {
