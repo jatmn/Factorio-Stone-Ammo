@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 2026.02.13  
+  Updates:
+    - Moved ammo placement in crafting menu to before yellow ammo.
+    - Updated code style to Stylua
+  Fixes:
+    - Fixed split recipe and ammo item in factoriopedia 
+---------------------------------------------------------------------------------------------------
 Version: 0.0.6
 Date: 2024.11.15  
   Updates:
