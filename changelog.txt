@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 2026.10.08
+  Updates:
+    - Added Factorio 2.1 support, targeting Factorio 2.1.21.
+  Fixes:
+    - Updated the ammo recipe to use the Factorio 2.1 recipe categories format.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.7
 Date: 2026.02.13  
   Updates:
