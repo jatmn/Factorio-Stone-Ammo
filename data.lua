@@ -15,7 +15,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "j_cheap_stone_ammo",
-		category = "crafting",
+		categories = { "crafting" },
 		enabled = true,
 		hidden = false,
 		energy_required = 0.5,
