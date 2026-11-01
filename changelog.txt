@@ -5,37 +5,38 @@ Date: 2026.10.08
     - Added Factorio 2.1 support, targeting Factorio 2.1.21.
   Fixes:
     - Updated the ammo recipe to use the Factorio 2.1 recipe categories format.
+    - Removed the obsolete icon_mipmaps property that Factorio 2.1 ignored and reported as unused prototype data.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.7
-Date: 2026.02.13  
+Date: 2026.02.13
   Updates:
     - Moved ammo placement in crafting menu to before yellow ammo.
     - Updated code style to Stylua
   Fixes:
-    - Fixed split recipe and ammo item in factoriopedia 
+    - Fixed split recipe and ammo item in factoriopedia
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.6
-Date: 2024.11.15  
+Date: 2024.11.15
   Updates:
     - Fixed sound loading error
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
-Date: 2024.10.26  
+Date: 2024.10.26
   Updates:
     - Factorio 2.0 Support
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
-Date: 2022.4.14  
+Date: 2022.4.14
   Settings:
     - Code optimization thank to help from ZwerOxotnik
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
-Date: 2022.4.12  
+Date: 2022.4.12
   Settings:
     - Added Setting option to set damage value
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
-Date: 2022.4.9  
+Date: 2022.4.9
   Settings:
     - Added Setting option to disable knockback.
     - Added Setting option to set Recipe - Magazine Size
@@ -43,6 +44,6 @@ Date: 2022.4.9
     - Added Setting option to set Recipe - Set how much stone is required to produce Recipe
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
-Date: 2022.1.6  
+Date: 2022.1.6
   Features:
     - Inital release....

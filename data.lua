@@ -33,7 +33,6 @@ local j_cheap_stone_ammo = {
   name = "j_cheap_stone_ammo",
   icon = "__jatmn_stone_ammo__/graphics/icons/Stone-firearm-magazine.png",
   icon_size = 64,
-  icon_mipmaps = 4,
   ammo_category = "bullet",
   ammo_type = {
     action = {
